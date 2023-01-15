@@ -1,0 +1,49 @@
+{
+
+  "name": "Event Management",
+
+  "short_name": "EventMgmt",
+
+  “description”: “Event Management Progressive Web App”
+
+  "lang": "en-US",
+
+  "start_url": "/events",
+
+  "theme_color": "#acdee7",
+
+  "display": "standalone",
+
+  "icons": [
+
+           {
+
+             "src": "splashscreen.png",
+
+             "sizes": "192x192",
+
+             "type": "png"
+
+           },
+
+           {
+
+             "src": "logo.png",
+
+             "sizes": "100x100",
+
+             "type": "png"
+
+           },
+
+           {
+
+             "src": "banner.jpg",
+
+             "sizes": "300x100",
+
+             "type": "jpg"
+
+           }
+
+ ]}
